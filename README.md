@@ -5,7 +5,7 @@ The app displaying robotic avatars built with React and Redux, fetching data fro
 
 ## Built with
 * Front End – Tachyons, React
-* APIs – RoboHash, JSONPlaceholder
+* APIs – [RoboHash](https://robohash.org/), [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 * Deploy – GitHub Pages
 
 
@@ -16,7 +16,7 @@ The app displaying robotic avatars built with React and Redux, fetching data fro
 ## Features
 
 ### Display Info
-![main page](https://github.com/wgao2160/face-recognition/blob/main/img/register.jpg?raw=true)
+![main page](https://github.com/wgao2160/robofriends/blob/main/img/mainpage.png?raw=true)
 
 ### Search Info
-![main page](https://github.com/wgao2160/face-recognition/blob/main/img/signin.jpg?raw=true)
+![main page](https://github.com/wgao2160/robofriends/blob/main/img/searchpage.png?raw=true)
