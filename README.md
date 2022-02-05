@@ -12,6 +12,10 @@ The app displaying robotic avatars built with React and Redux, fetching data fro
 ## Live Demo
 * The live version of the app: https://wgao2160.github.io/robofriends/
 
+## Run Project 
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
 
 ## Features
 
